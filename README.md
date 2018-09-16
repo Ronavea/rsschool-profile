@@ -1,2 +1,3 @@
 # rsschool-profile
-HTML CSS Homework
+Pavel Lushko
+HTML CSS Basics https://www.codecademy.com/users/StudentTraveler/achievements
